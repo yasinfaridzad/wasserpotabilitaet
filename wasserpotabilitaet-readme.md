@@ -58,4 +58,4 @@ MIT
 
 ## Autor
 
-[Yasin Faridzad]
+Yasin Faridzad
